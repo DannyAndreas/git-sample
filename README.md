@@ -1,2 +1,1 @@
-# git-sample
-# git-middle
+New line
